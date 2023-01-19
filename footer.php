@@ -3,7 +3,7 @@
         <div class="home-testi position-relative">
              <h1>Reqular customers reviews <br> about hummy tum.</h1>
              <h6 class="mb-5 mt-3">Welcome to hummy tum.</h6>
-             <img class="img-fluid end-0" src="img/qute.png" alt="">
+             <img class="img-fluid end-0 d-none d-lg-block" src="img/qute.png" alt="">
         </div>
     </section>
     <div>
